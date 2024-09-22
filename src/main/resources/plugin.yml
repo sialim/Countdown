@@ -1,0 +1,4 @@
+name: Countdown
+version: '${project.version}'
+main: me.sialim.countdown.Countdown
+api-version: '1.20'
